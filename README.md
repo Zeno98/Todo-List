@@ -10,5 +10,5 @@ For adding tasks click to add button.
 At bottom it is showing the number of pending tasks.
 
 ![td2](https://user-images.githubusercontent.com/89126653/163798842-ccd722f2-3aa7-4664-a900-eece5fbe9e61.JPG)<br/>
-to delete any task we have to hover on any task.
+Delete any task we have to hover on any task.
 
